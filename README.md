@@ -6,8 +6,8 @@
 2.取自开源库https://github.com/egotong/nows 在此表示感谢
 
 ## 代码说明 
-main-ffdz目录下是网站源码
+ffdz目录下是网站源码
 
-master-CouldMusic下是用来处理网易云评论的Python代码
+CouldMusic下是用来处理网易云评论的Python代码
 
 # 既然生活充满了负能量，何不试试负负得正？
